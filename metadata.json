@@ -1,0 +1,6 @@
+{
+  "name": "Automação de Recebimento de Materiais",
+  "description": "Sistema automatizado de recebimento integrando Recebimento Fiscal e Almoxarifado com conferência digital, assinaturas eletrônicas, liberação de canhoto e tratamento de divergências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
